@@ -1,1 +1,57 @@
+#textbox {
+    display: inline-block;
+    position: relative;
+    float: left;
+    width: 650px;
+    margin: 30px;
+}
 
+#boardMembers {
+    position: relative;
+    float: left;
+}
+
+#name {
+    display: inline-block;
+    position: relative;
+    margin: 50px;
+    float: left;
+}
+
+.lineBreak {
+    display: inline-block;
+    position: relative;
+    float: left;
+    height: 10px
+    width: 100%;
+}
+
+.b1 {
+    display: inline-block;
+    position: relative;
+    margin: 30px;
+    float: left;
+    width: 650px;
+    height: 500px;
+    background-color: lightgrey;
+}
+
+.b2 {
+    display: inline-block;
+    position: relative;
+    margin: 30px;
+    float: left;
+    width: 650px;
+    height: 300px;
+    background-color: lightgrey;
+}
+
+.b3 {
+    display: inline-block;
+    position: relative;
+    margin: 50px;
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: lightgrey;
+}
