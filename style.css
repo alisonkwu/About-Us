@@ -1,3 +1,41 @@
+h1{
+    
+    margin-left: 150px;
+    margin-right: 150px;
+
+    color: black;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 59px;
+} 
+
+h2{
+
+    margin-left: 150px;
+    margin-right: 150px;
+
+    color: black;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+}
+
+p{
+    
+    margin-left: 150px;
+    margin-right: 150px;
+    color: black;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+}
+
 #textbox {
     display: inline-block;
     position: relative;
@@ -6,10 +44,14 @@
     margin: 30px;
 }
 
+/*
+ don't think this class (?) is necessary since it's just h2
 #boardMembers {
     position: relative;
     float: left;
 }
+*/
+
 
 #name {
     display: inline-block;
