@@ -1,99 +1,430 @@
-h1{
-    
-    margin-left: 150px;
-    margin-right: 150px;
+.banner {
+    position: absolute;
+    left: 66px;
+    top: 58px;
+}
 
-    color: black;
+.pageLinks {
+    position: absolute;
+    left: 822px;
+    top: 105px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.currentPage {
+    color: orange;
+}
+
+h1 {
+    position: absolute;
+    width: 229px;
+    height: 59px;
+    left: 199px;
+    top: 262px;
+
     font-family: Montserrat;
     font-style: normal;
     font-weight: 600;
     font-size: 48px;
     line-height: 59px;
+    /* identical to box height */
+
+    color: #000000;
 } 
 
-h2{
 
-    margin-left: 150px;
-    margin-right: 150px;
+.missionHeader {
+position: absolute;
+width: 403px;
+height: 37px;
+left: 199px;
+top: 428px;
 
-    color: black;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+
+color: #000000;  
+}
+
+.missionText {
+position: absolute;
+width: 1049px;
+height: 287px;
+left: 199px;
+top: 493px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+
+color: #000000;   
+}
+
+.branchHeader {
+position: absolute;
+width: 403px;
+height: 37px;
+left: 199px;
+top: 959px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+
+color: #000000;
+}
+
+.branchText {
+position: absolute;
+width: 1049px;
+height: 208px;
+left: 199px;
+top: 1024px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+
+color: #000000;
+}
+
+.boardHeader {
+position: absolute;
+width: 380px;
+height: 49px;
+left: 199px;
+top: 1308px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 37px;
+
+color: #000000;
+}
+
+.n1 {
+    position: absolute;
+    left: 190px;
+    top: 1724px;
     font-family: Montserrat;
     font-style: normal;
     font-weight: 600;
-    font-size: 30px;
-    line-height: 37px;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
 }
 
-p{
-    
-    margin-left: 150px;
-    margin-right: 150px;
-    color: black;
+.n2 {
+    position: absolute;
+    left: 572px;
+    top: 1724px;
     font-family: Montserrat;
     font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.n3 {
+    position: absolute;
+    left: 954px;
+    top: 1724px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;  
+}
+
+.n4 {
+    position: absolute;
+    left: 190px;
+    top: 2160px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.n5 {
+    position: absolute;
+    left: 572px;
+    top: 2160px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.n6 {
+    position: absolute;
+    left: 954px;
+    top: 2160px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.n7 {
+    position: absolute;
+    left: 190px;
+    top: 2616px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.n8 {
+    position: absolute;
+    left: 572px;
+    top: 2616px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.n9 {
+    position: absolute;
+    left: 954px;
+    top: 2616px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.title {
+    color: #3069D7;
+}
+
+.t1 {
+    position: absolute;
+    left: 190px;
+    top: 1754px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.t2 {
+    position: absolute;
+    left: 572px;
+    top: 1754px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000}
+
+.t3 {
+    position: absolute;
+    left: 954px;
+    top: 1754px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000}
+
+.t4 {
+    position: absolute;
+    left: 190px;
+    top: 2190px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000}
+
+.t5 {
+    position: absolute;
+    left: 572px;
+    top: 2190px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000}
+
+.t6 {
+    position: absolute;
+    left: 954px;
+    top: 2190px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000}
+
+.t7 {
+    position: absolute;
+    left: 190px;
+    top: 2646px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000}
+
+.t8{
+    position: absolute;
+    left: 572px;
+    top: 2646px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000}
+
+.t9 {
+    position: absolute;
+    left: 954px;
+    top: 2646px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000}
+
+.p1 {
+    position: absolute;
+    left: 190px;
+    top: 1411px;
+}
+
+.p2 {
+    position: absolute;
+    left: 572px;
+    top: 1411px;
+}
+
+.p3 {
+    position: absolute;
+    left: 954px;
+    top: 1411px;
+}
+
+.p4 {
+    position: absolute;
+    left: 190px;
+    top: 1847px;
+}
+
+.p5 {
+    position: absolute;
+    left: 572px;
+    top: 1847px;
+}
+
+.p6 {
+    position: absolute;
+    left: 954px;
+    top: 1847px;
+}
+
+.p7 {
+    position: absolute;
+    left: 190px;
+    top: 2303px;
+}
+
+.p8 {
+    position: absolute;
+    left: 572px;
+    top: 2303px;
+}
+
+.p9 {
+    position: absolute;
+    left: 954px;
+    top: 2303px;
+}
+
+.tag {
+    position: absolute;
+    left:154px;
+    top:2825px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
     line-height: 30px;
+    /* or 120% */
+    color: #FFFFFF;
 }
 
-#textbox {
-    display: inline-block;
-    position: relative;
-    float: left;
-    width: 650px;
-    margin: 30px;
-}
-
-/*
- don't think this class (?) is necessary since it's just h2
-#boardMembers {
-    position: relative;
-    float: left;
-}
-*/
-
-
-#name {
-    display: inline-block;
-    position: relative;
-    margin: 50px;
-    float: left;
-}
-
-.lineBreak {
-    display: inline-block;
-    position: relative;
-    float: left;
-    height: 10px
+.footer {
+    position: absolute;
     width: 100%;
+    height: 180px;
+    top: 2767px;
+    background: #022447;
 }
 
-.b1 {
-    display: inline-block;
-    position: relative;
-    margin: 30px;
-    float: left;
-    width: 650px;
-    height: 500px;
-    background-color: lightgrey;
+.logo3{
+    position: absolute;
+    left:807px;
+    top:2833px;
 }
 
-.b2 {
-    display: inline-block;
-    position: relative;
-    margin: 30px;
-    float: left;
-    width: 650px;
-    height: 300px;
-    background-color: lightgrey;
+.logo2{
+    position: absolute;
+    left:1053px;
+    top:2817px;
 }
 
-.b3 {
-    display: inline-block;
-    position: relative;
-    margin: 50px;
-    float: left;
-    width: 100px;
-    height: 100px;
-    background-color: lightgrey;
+.logo1{
+    position: absolute;
+    left:1211px;
+    top:2817px;
 }
+
+
