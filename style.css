@@ -37,7 +37,6 @@ h1 {
     color: #000000;
 } 
 
-
 .missionHeader {
 position: absolute;
 width: 403px;
@@ -386,6 +385,53 @@ color: #000000;
     position: absolute;
     left: 954px;
     top: 2303px;
+}
+.o1 {
+    display: none;
+}
+
+.p1:hover + .o1 {
+    display: block;
+    position: absolute;
+    left: 10px;
+    top: 1411px;
+    width: 301px;
+    height: 300px;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #008CBA;
+}
+
+.o2 {
+
+}
+
+.o3 {
+
+}
+
+.o4 {
+
+}
+
+.o5 {
+
+}
+
+.o6 {
+
+}
+
+.o7 {
+
+}
+
+.o8 {
+
+}
+
+.o9 {
+
 }
 
 .tag {
