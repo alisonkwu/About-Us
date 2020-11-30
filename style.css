@@ -127,9 +127,11 @@ p {
 .boardMember {
     position: relative;
     width: 301px;
-    height: 300px;
+    height: 500px;
 }
 
 .profilePic {
-/*picture settings, size? percentage size?*/
+    position: relative;
+    width: 301px;
+    height: 300px;
 }
