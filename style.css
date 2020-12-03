@@ -10,7 +10,7 @@
     position: relative;
     margin-left: 200px;
     margin-right: 200px;
-    margin-bottom: -180px;
+    /*margin-bottom: -180px;*/
 }
 
 .flex-container {
@@ -142,16 +142,16 @@ p {
     height: 300px;
 }
 /*header*/
-/*
+
 div {
     display: block;
   }
-  */
+
   
   .home {
     position: relative;
     width: 1440px;
-    height: 2464px;
+    height: 262px;
     background: #FFFFFF;
   }
   
@@ -197,7 +197,7 @@ div {
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 15px;
   }
   
   li{
